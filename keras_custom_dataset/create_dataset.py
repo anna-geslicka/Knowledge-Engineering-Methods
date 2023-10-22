@@ -1,3 +1,5 @@
+#https://we.tl/t-5LcvyWtNfX -> Raw data link (photos)
+
 import os
 import numpy as np
 from PIL import Image
